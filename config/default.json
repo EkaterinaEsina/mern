@@ -1,0 +1,6 @@
+{
+  "port": 3010,
+  "mongoUri": "mongodb+srv://eesina:Nx8NqMuWe4nWr4z@cluster0.zd7y9.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "ekaterina mern",
+  "baseUrl": "http://localhost:3010"
+}
