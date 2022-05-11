@@ -24,7 +24,6 @@ const MONGO_URI = config.get('mongoUri');
 
 async function start() {
   try {
-    //eesina Nx8NqMuWe4nWr4z  DB
     await mongoose.connect(MONGO_URI, {
       useUnifiedTopology: true,
       useNewUrlParser: true
